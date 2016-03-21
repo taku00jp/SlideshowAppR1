@@ -12,6 +12,9 @@
 		73492B271C9F744200AE9F72 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 73492B251C9F744200AE9F72 /* Main.storyboard */; };
 		73492B291C9F744200AE9F72 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 73492B281C9F744200AE9F72 /* Assets.xcassets */; };
 		73492B2C1C9F744200AE9F72 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 73492B2A1C9F744200AE9F72 /* LaunchScreen.storyboard */; };
+		73492B341C9F746800AE9F72 /* img1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 73492B331C9F746800AE9F72 /* img1.jpg */; };
+		73492B361C9F746C00AE9F72 /* img2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 73492B351C9F746C00AE9F72 /* img2.jpg */; };
+		73492B381C9F747000AE9F72 /* img3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 73492B371C9F747000AE9F72 /* img3.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +25,9 @@
 		73492B281C9F744200AE9F72 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		73492B2B1C9F744200AE9F72 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		73492B2D1C9F744200AE9F72 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		73492B331C9F746800AE9F72 /* img1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = img1.jpg; sourceTree = "<group>"; };
+		73492B351C9F746C00AE9F72 /* img2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = img2.jpg; sourceTree = "<group>"; };
+		73492B371C9F747000AE9F72 /* img3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = img3.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +64,9 @@
 				73492B231C9F744200AE9F72 /* ViewController.swift */,
 				73492B251C9F744200AE9F72 /* Main.storyboard */,
 				73492B281C9F744200AE9F72 /* Assets.xcassets */,
+				73492B331C9F746800AE9F72 /* img1.jpg */,
+				73492B351C9F746C00AE9F72 /* img2.jpg */,
+				73492B371C9F747000AE9F72 /* img3.jpg */,
 				73492B2A1C9F744200AE9F72 /* LaunchScreen.storyboard */,
 				73492B2D1C9F744200AE9F72 /* Info.plist */,
 			);
@@ -124,6 +133,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				73492B2C1C9F744200AE9F72 /* LaunchScreen.storyboard in Resources */,
+				73492B381C9F747000AE9F72 /* img3.jpg in Resources */,
+				73492B361C9F746C00AE9F72 /* img2.jpg in Resources */,
+				73492B341C9F746800AE9F72 /* img1.jpg in Resources */,
 				73492B291C9F744200AE9F72 /* Assets.xcassets in Resources */,
 				73492B271C9F744200AE9F72 /* Main.storyboard in Resources */,
 			);
